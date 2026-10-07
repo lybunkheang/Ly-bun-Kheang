@@ -1,0 +1,88 @@
+const animeData = [
+    {
+        id: 1,
+        title: "Renegade Immortal",
+        episode: "Episode 161/180",
+        quality: "4K",
+        image: "/images/Tien-Nghich.webp",
+    },
+    {
+        id: 2,
+        title: "Tales of Herding Gods",
+        episode: "Episode 103",
+        quality: "4K",
+        image: "/images/Muc-Than-Ky-12.webp",
+    },
+    {
+        id: 3,
+        title: "Battle Through the Heavens 5",
+        episode: "Episode 213/219",
+        quality: "4K",
+        image: "/images/Dau-Pha-Thuong-Khung-Phan-5.webp",
+    },
+    {
+        id: 4,
+        title: "Beyond the Divine Realm",
+        episode: "Episode 42/78",
+        quality: "4K",
+        image: "/images/Quang-Am-Chi-Ngoai-2.webp",
+    },
+    {
+        id: 5,
+        title: "A Record of a Mortal's Journey to Immortality",
+        episode: "Episode 194",
+        quality: "4K",
+        image: "/images/Pham-Nhan-Tu-Tien.webp",
+    },
+    {
+        id: 6,
+        title: "Perfect World",
+        episode: "Episode 288/358",
+        quality: "4K",
+        image: "/images/The-Gioi-HoanMy.webp",
+    },
+    {
+        id: 7,
+        title: "Shrouding the Heavens",
+        episode: "Episode 184/208",
+        quality: "4K",
+        image: "/images/Gia-Thien.webp",
+    },
+    {
+        id: 8,
+        title: "Swallowed Star",
+        episode: "Episode 246/260",
+        quality: "4K",
+        image: "/images/Thon-Phe-Tinh-Khong-1.webp",
+    },
+    {
+        id: 9,
+        title: "The Tomb Keeper of Great Xia",
+        episode: "Episode 246/260",
+        quality: "4K",
+        image: "/images/Nguoi-Giu-Mo-Dai-Ha.webp",
+    },
+    {
+        id: 10,
+        title: "The Classic of Mountains and Seas: Reboot",
+        episode: "Episode 246/260",
+        quality: "4K",
+        image: "/images/Son-Hai-Kinh-Thiet-Lap-Lai-Trat-Tu.webp",
+    },
+    {
+        id: 11,
+        title: "The One and Only in All Worlds",
+        episode: "Episode 246/260",
+        quality: "4K",
+        image: "/images/Van-Gioi-Doc-Ton.webp",
+    },
+     {
+        id: 12,
+        title: "Spare Me, Great Lord",
+        episode: "Episode 246/260",
+        quality: "4K",
+        image: "/images/Linh-Canh-Hanh-Gia.webp",
+    },
+];
+
+export default animeData;
